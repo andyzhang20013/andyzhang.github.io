@@ -21,10 +21,10 @@ repository               : "andyzhang20013.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_picture.JPG"
   name             : "Andrew Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "CS and Business @ Northwestern University"
   location         : "Chicago, Illinois"
   employer         : "Northwestern University"
   uri              : # URL
