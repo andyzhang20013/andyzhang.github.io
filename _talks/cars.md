@@ -5,3 +5,4 @@ collection: talks
 ---
 
 With a 5.7L V8 and a 4-Speed Manual Transmission, it's a lot of fun to drive! 
+<br/><img src='/images/car_2.jpg'>

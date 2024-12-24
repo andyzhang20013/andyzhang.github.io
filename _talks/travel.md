@@ -5,3 +5,4 @@ collection: talks
 ---
 
 This picture was taken in Portugal! 
+<br/><img src='/images/travel_1.JPG'>

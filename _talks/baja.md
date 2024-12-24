@@ -5,3 +5,4 @@ collection: talks
 ---
 
 This was me driving the car in at the Blizzard Baja event, which is hosted by Michigan Tech in the Upper Peninsula. 
+<br/><img src='/images/baja.JPEG'>
