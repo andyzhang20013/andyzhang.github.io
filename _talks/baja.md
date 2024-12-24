@@ -4,5 +4,5 @@ excerpt: "I am an active member of the off-road car team, Baja SAE. Each year, w
 collection: talks
 ---
 
-This was me driving the car in at the Blizzard Baja event, which is hosted by Michigan Tech in the Upper Peninsula. 
+This was me driving the car at the Winter Baja event, which is hosted by Michigan Tech in the Upper Peninsula. 
 <br/><img src='/images/baja.JPEG'>
