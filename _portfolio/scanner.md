@@ -4,5 +4,8 @@ excerpt: "Using Apple Vision Kit and Swift, I developed a fully-functional iOS A
 collection: portfolio
 ---
 
-Watch a demonstration here: <a href="/files/Scanner.txt_preview.MP4" target="_blank">Download or view the video</a>
+Watch a demonstration here: 
+<video width="640" height="360" controls>
+  <source src="/files/Scanner.txt_preview.MP4" type="video/mp4">
+</video>
 
