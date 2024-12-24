@@ -24,10 +24,10 @@ I have worked under Giorgia Chinazzo, Associate Professor of Civil and Environme
 
 In addition, I have worked under Guy Adami, Associate Professor of Oral Medicine and Diagnostic Sciences, by developing a program in R which considers the correlation between certain health conditions and the presence of specific bacteria in a patient's mouth. 
 
-To learn more, please look under my Publications tab. 
+To learn more, please look under my [Publications tab](https://andyzhang20013.github.io//files/uic_publication.pdf). 
 
 ## 🏫 Projects
-I have completed a number of personal projects where I have utilized AWS Cloud Storage, Mobile App Development, Unity Game Engine, and many more! To learn more, head to the Projects tab. 
+I have completed a number of personal projects where I have utilized AWS Cloud Storage, Mobile App Development, Unity Game Engine, and many more! To learn more, head to the [Portfolio tab](https://andyzhang20013.github.io//portfolio/). 
 
 ## 🛝 Personal Interests
-In my free time, I am a member of Northwestern Baja SAE. To learn more about my hobbies, check out the Interests tab. 
+In my free time, I am a member of Northwestern Baja SAE. To learn more about my hobbies, check out the [Interests tab](https://andyzhang20013.github.io//talks/). 
