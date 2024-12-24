@@ -6,11 +6,13 @@
 
 main:
   - title: "Resume"
-    url: /publications/
+    url: /files/Resume.pdf
 
-  - title: "Interests"
-    url: /talks/      
-    
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Interests"
+    url: /interests/      
+    
+
         
