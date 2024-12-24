@@ -10,7 +10,9 @@ redirect_from:
 
 📖 I'm currently working towards a Major in Computer Science, Minor in Business Institutions, and Design Certificate
 
-🔬 My research interests are in Human Computer Interaction and Data Analysis
+🔬 I have research experience in Data Analysis
+
+🧑‍💻 My Degree Concentration is in Human Computer Interaction
 
 
 # Selected Experiences
