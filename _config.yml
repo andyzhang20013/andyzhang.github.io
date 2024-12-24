@@ -21,7 +21,7 @@ repository               : "andyzhang20013.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_picture.JPG"
+  avatar           : "profile_picture.jpg"
   name             : "Andrew Zhang"
   pronouns         : # example: "she/her"  
   bio              : "CS and Business @ Northwestern University"
