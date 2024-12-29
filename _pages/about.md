@@ -20,9 +20,9 @@ redirect_from:
 I have completed two internships at General Motors. My first summer, I worked in the Manufacturing Cybersecurity Team. During my assignment, I developed a Python-based program which runs on all plant environment PCs to ensure compliance with internal cybersecurity standards. My second summer, I worked in Data Strategy & Intelligence. By using the ETL data extraction process, I was able to obtain vehicle usage data from over 300,000 production vehicles and create a series of visualizations in PowerBi. These visualizations have assisted other data teams within General Motors in understanding trends in real-world data usage. I have received excellent feedback from my past managers based on my performance - see the following [recommendation letter](/files/recommendation.pdf). 
 
 ## 🔬 Research
-I have worked under Giorgia Chinazzo, Associate Professor of Civil and Environmental Engineering, to develop a web-scraping program which analyzes home listings on Zillow. Further, I used Pandas to perform data clean-up and organization by zip code for every major metropolitan area in the United States. 
+I have worked under Giorgia Chinazzo, Associate Professor of Civil and Environmental Engineering at Northwestern University, to develop a web-scraping program which analyzes home listings on Zillow. Further, I used Pandas to perform data clean-up and organization by zip code for every major metropolitan area in the United States. 
 
-In addition, I have worked under Guy Adami, Associate Professor of Oral Medicine and Diagnostic Sciences, by developing a program in R which considers the correlation between certain health conditions and the presence of specific bacteria in a patient's mouth. 
+In addition, I have worked under Guy Adami, Associate Professor of Oral Medicine and Diagnostic Sciences at UIC College of Dentistry, by developing a program in R which considers the correlation between certain health conditions and the presence of specific bacteria in a patient's mouth. 
 
 To learn more, please look under my [Publications tab](https://andyzhang20013.github.io//files/uic_publication.pdf). 
 
